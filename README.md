@@ -20,4 +20,4 @@ Nesse desafio, devemos continuar desenvolvendo a aplicação que irá armazenar 
 
 ![Resultado dos testes](/tests-result.png)
 
-![Resultado dos testes](/gostack-frontend.png)
+![Resultado dos testes](/gostack-mobile.png)
